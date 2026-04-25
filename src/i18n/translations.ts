@@ -388,6 +388,6 @@ export const translations = {
       contact: "Contact",
     },
   },
-} as const;
+};
 
 export type TranslationKeys = typeof translations.uz;
